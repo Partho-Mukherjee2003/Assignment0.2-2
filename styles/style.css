@@ -36,23 +36,33 @@ border: 2px solid black;
 }
 
 
+
 .deals-card-1{
-  background-image: url('../assets/deal-bloom.png');
+  background: url('../assets/deal-bloom.png'), rgba(0, 0, 0, 0.522);
+  background-blend-mode: multiply;
   background-repeat: no-repeat;
-}
-.deals-card-2{
-  background-image: url('../assets/deal-ana.png');
-  background-repeat: no-repeat;
+  background-size: cover;
   
+}
+
+
+.deals-card-2{
+  background: url('../assets/deal-ana.png'),rgba(0, 0, 0, 0.511);
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-size: cover;
   
 }
 .deals-card-3{
-  background-image: url('../assets/deal-zabo.png');
+  background: url('../assets/deal-zabo.png'),rgba(0, 0, 0, 0.492);
   background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-size: cover;
 }
 
 .input-field{
-  background-image: url('../assets/news-letter-bg.png');
+  background: url('../assets/news-letter-bg.png'),rgba(0, 0, 0, 0.245);
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: multiply;
 }
