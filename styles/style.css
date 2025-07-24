@@ -14,3 +14,14 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 } 
+
+
+#flower-list{
+  list-style-type:disc;
+}
+
+#badge{
+  margin-left: 420px;
+  margin-top: -90px;
+  
+}
