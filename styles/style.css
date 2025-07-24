@@ -18,10 +18,19 @@
 
 #flower-list{
   list-style-type:disc;
+  
 }
+#plant-lover-des li{
+  margin-top: 12px;
+}
+
 
 #badge{
   margin-left: 420px;
   margin-top: -90px;
   
+}
+
+.add-to-card:focus{
+border: 2px solid black;
 }
