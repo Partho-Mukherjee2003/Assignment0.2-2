@@ -36,8 +36,21 @@ border: 2px solid black;
 }
 
 .latest-card-1{
-  background-image: rgba(0, 0, 0, 0.4), url('../assets/deal-ana.png');
+  background-image: url('../assets/deal-ana.png');
   background-repeat: no-repeat;
   
   
+}
+.latest-card-2{
+  background-image: url('../assets/deal-bloom.png');
+  background-repeat: no-repeat;
+}
+.latest-card-3{
+  background-image: url('../assets/deal-zabo.png');
+}
+
+.input-field{
+  background-image: url('../assets/news-letter-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
