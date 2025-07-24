@@ -35,18 +35,20 @@
 border: 2px solid black;
 }
 
-.latest-card-1{
+
+.deals-card-1{
+  background-image: url('../assets/deal-bloom.png');
+  background-repeat: no-repeat;
+}
+.deals-card-2{
   background-image: url('../assets/deal-ana.png');
   background-repeat: no-repeat;
   
   
 }
-.latest-card-2{
-  background-image: url('../assets/deal-bloom.png');
-  background-repeat: no-repeat;
-}
-.latest-card-3{
+.deals-card-3{
   background-image: url('../assets/deal-zabo.png');
+  background-repeat: no-repeat;
 }
 
 .input-field{
